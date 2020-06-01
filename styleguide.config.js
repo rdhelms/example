@@ -24,5 +24,12 @@ module.exports = {
 				},
 			],
 		},
-	},
+    },
+    styles: {
+        Link: {
+            link: {
+                textDecoration: 'underline',
+            },
+        },
+    },
 };
